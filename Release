@@ -1,0 +1,24 @@
+Origin: Hariboo Beta Repo
+Label: Hariboo Beta Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main
+Description: toi da bi con ret chui vao lo dit roi, muon duoc cuu thi phai bu cu fembi hu hu bu ac ac ac ban tum lum
+Date: Wed, 25 Nov 2026 19:16:02 UTC
+MD5Sum:
+ 7b8c7880d1713ebc32b53cce311e01ce 546 Packages
+ 35cbeca1717a90eb5e5a423efb7721db 407 Packages.gz
+ b19a6524a4b4e4f1c87758b95841b44a 441 Packages.bz2
+ 74be2d098d292bbb2ca9ca0d92dc4595 476 Packages.xz
+SHA1:
+ c91a40e30c866c143817e2e08f0ae8d495fa1f72 546 Packages
+ 56dd520f45379fe6e84aa2d36719a17cfa441dae 407 Packages.gz
+ e695f72827f64c100f4aa58f03e3acbdc65bc18f 441 Packages.bz2
+ 502e9d3af161f4a22a9b2e3ff38ee7c97d551c65 476 Packages.xz
+SHA256:
+ 668abc8aa89d4b115099b92e1f540027fd38b5e09b93ab41ec01ccb004cd03a5 546 Packages
+ 34fe4cef16e2587abd96113698ed7a236fd841876694d72d78f43608fc0aedb0 407 Packages.gz
+ 00ffba7042f785193f78686ea7cb7f819cfd8d75ea32e63ff1a6e12ec5f6a3ae 441 Packages.bz2
+ a6c064a67b1953a8cfe2da86d1a38e911b6eff7d399c1b39aedeb5792d1edb79 476 Packages.xz
