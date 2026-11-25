@@ -1,0 +1,16 @@
+Package: com.vizh.pixelization
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: Vizh
+Installed-Size: 1216
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), firmware (<< 17.0)
+Filename: debs/com.vizh.pixelization_1.2.0_iphoneos-arm64.deb
+Size: 245470
+MD5sum: 03ef6efbd056e2737c994cf79af720c6
+SHA1: 5f6e05e7dd6d0a2a0e4f39495df064f12d99741a
+SHA256: d3e61cdd9bb7c1b3c2821f3bdc83c32848e4cba835f090f1c4bc74447240ab3c
+Section: Tweaks
+Description: Minecraft PE theme cho iOS 13-16: icon, dock tran vien, folder item frame, cong tac Minecraft, giao dien Cai dat kieu bang che do.
+Author: Vizh
+Name: Pixelization
+
